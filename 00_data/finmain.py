@@ -9,7 +9,7 @@ lrb_base_url = 'http://api.xueqiu.com/stock/f10/finmainindex.json?page=1&size=10
 
 headers = {
     'User-Agent': 'Mozilla/5.0',
-    'Cookie': 'xq_a_token=6bd905936e1ca3ac41374916b0958370575aa86d'
+    'Cookie': 'xq_a_token=011719ea38e45d6eacb742001ccc7acd969ff633'
 }
 
 def download_lrb(url):

@@ -78,3 +78,7 @@ def get_profits(df = None):
     profits['ttm_day'] = profits.apply(calculate_ttmday, axis=1)
     profits.drop(columns=['2016Q3', '2016Q4', '2017Q1', '2017Q2', '2017Q3', '2017Q4'], inplace = True)
     return profits
+
+if __name__ == '__main__':
+    df = read_finmain()
+    df.to_csv('main.csv', index=False)

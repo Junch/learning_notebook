@@ -1,0 +1,215 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "978a8b3a029d815f13e57be76988b77b608244197f7e8d440568bdc6a535a166"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "3.6.5",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "17.5.0",
+            "platform_system": "Darwin",
+            "platform_version": "Darwin Kernel Version 17.5.0: Mon Mar  5 22:24:32 PST 2018; root:xnu-4570.51.1~1/RELEASE_X86_64",
+            "python_full_version": "3.6.5",
+            "python_version": "3.6",
+            "sys_platform": "darwin"
+        },
+        "pipfile-spec": 6,
+        "requires": {},
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "appnope": {
+            "hashes": [],
+            "markers": "sys_platform == 'darwin'",
+            "version": "==0.1.0"
+        },
+        "backcall": {
+            "hashes": [],
+            "version": "==0.1.0"
+        },
+        "bleach": {
+            "hashes": [],
+            "version": "==2.1.3"
+        },
+        "decorator": {
+            "hashes": [],
+            "version": "==4.3.0"
+        },
+        "entrypoints": {
+            "hashes": [],
+            "version": "==0.2.3"
+        },
+        "html5lib": {
+            "hashes": [],
+            "version": "==1.0.1"
+        },
+        "ipykernel": {
+            "hashes": [],
+            "version": "==4.8.2"
+        },
+        "ipython": {
+            "hashes": [],
+            "version": "==6.3.1"
+        },
+        "ipython-genutils": {
+            "hashes": [],
+            "version": "==0.2.0"
+        },
+        "ipywidgets": {
+            "hashes": [],
+            "version": "==7.2.1"
+        },
+        "jedi": {
+            "hashes": [],
+            "version": "==0.12.0"
+        },
+        "jinja2": {
+            "hashes": [],
+            "version": "==2.10"
+        },
+        "jsonschema": {
+            "hashes": [],
+            "version": "==2.6.0"
+        },
+        "jupyter": {
+            "hashes": [],
+            "version": "==1.0.0"
+        },
+        "jupyter-client": {
+            "hashes": [],
+            "version": "==5.2.3"
+        },
+        "jupyter-console": {
+            "hashes": [],
+            "version": "==5.2.0"
+        },
+        "jupyter-core": {
+            "hashes": [],
+            "version": "==4.4.0"
+        },
+        "markupsafe": {
+            "hashes": [],
+            "version": "==1.0"
+        },
+        "mistune": {
+            "hashes": [],
+            "version": "==0.8.3"
+        },
+        "nbconvert": {
+            "hashes": [],
+            "version": "==5.3.1"
+        },
+        "nbformat": {
+            "hashes": [],
+            "version": "==4.4.0"
+        },
+        "notebook": {
+            "hashes": [],
+            "version": "==5.4.1"
+        },
+        "numpy": {
+            "hashes": [],
+            "version": "==1.14.2"
+        },
+        "pandas": {
+            "hashes": [],
+            "version": "==0.22.0"
+        },
+        "pandocfilters": {
+            "hashes": [],
+            "version": "==1.4.2"
+        },
+        "parso": {
+            "hashes": [],
+            "version": "==0.2.0"
+        },
+        "pexpect": {
+            "hashes": [],
+            "markers": "sys_platform != 'win32'",
+            "version": "==4.5.0"
+        },
+        "pickleshare": {
+            "hashes": [],
+            "version": "==0.7.4"
+        },
+        "prompt-toolkit": {
+            "hashes": [],
+            "version": "==1.0.15"
+        },
+        "ptyprocess": {
+            "hashes": [],
+            "markers": "os_name != 'nt'",
+            "version": "==0.5.2"
+        },
+        "pygments": {
+            "hashes": [],
+            "version": "==2.2.0"
+        },
+        "python-dateutil": {
+            "hashes": [],
+            "version": "==2.7.2"
+        },
+        "pytz": {
+            "hashes": [],
+            "version": "==2018.4"
+        },
+        "pyzmq": {
+            "hashes": [],
+            "version": "==17.0.0"
+        },
+        "qtconsole": {
+            "hashes": [],
+            "version": "==4.3.1"
+        },
+        "send2trash": {
+            "hashes": [],
+            "version": "==1.5.0"
+        },
+        "simplegeneric": {
+            "hashes": [],
+            "version": "==0.8.1"
+        },
+        "six": {
+            "hashes": [],
+            "version": "==1.11.0"
+        },
+        "terminado": {
+            "hashes": [],
+            "version": "==0.8.1"
+        },
+        "testpath": {
+            "hashes": [],
+            "version": "==0.3.1"
+        },
+        "tornado": {
+            "hashes": [],
+            "version": "==5.0.2"
+        },
+        "traitlets": {
+            "hashes": [],
+            "version": "==4.3.2"
+        },
+        "wcwidth": {
+            "hashes": [],
+            "version": "==0.1.7"
+        },
+        "webencodings": {
+            "hashes": [],
+            "version": "==0.5.1"
+        },
+        "widgetsnbextension": {
+            "hashes": [],
+            "version": "==3.2.1"
+        }
+    },
+    "develop": {}
+}
