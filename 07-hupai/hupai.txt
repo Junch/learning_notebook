@@ -1,4 +1,4 @@
-Month    headcount initial lowest   average   stop     number
+month    headcount initial lowest   average   stop     number
 2018-04   204980    86300  86900    87089    11:29:12   69 
 2018-03   217056    86300  88100    88176    11:29:56   2526
 2018-02   220831    86300  87600    87660    11:29:59   410
